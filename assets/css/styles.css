@@ -1,0 +1,68 @@
+/* Fundo Invest Felps */
+div {
+    background-color: #160E0E;
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Lexend Zetta', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: medium;
+    margin: 0;
+    
+}
+
+/* Fundo em Vermelho */
+.content {
+    background-color: #E31E1E;
+    width: auto;
+    height: 385px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    color: white;
+    font-family: 'Karma' , sans-serif;
+    font-size: small;
+}
+
+.content p {
+    margin: 30px 0;
+}
+
+/* Acessar sua conta e ainda não sou cadastrado */
+.login-container {
+    background-color: white;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-button {
+    background-color: #E31E1E;
+    color:white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-family: 'Kantumruy' , sans-serif;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.signup-link {
+    margin-top: 20px;
+    color: #E31E1E;
+    text-decoration: underline;
+    font-family: 'Kantumruy' , sans-serif;
+    font-size: small;
+}
+
+
+
